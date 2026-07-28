@@ -7,11 +7,17 @@ This repository includes workshops that
 - Teach web development concepts
 - Complete required tasks needed to finish and deploy your site, rather than optional side quests
 
-## workshops
+## Workshops
 
 Each workshop is designed only to be 3–8 minutes, so significant additional time is left to work on the site. Multiple workshops can be completed each day.
 
-1. Project Setup Workshop
-2. Fonts workshop
+1. [Project Setup Workshop](workshops/1-project-setup/workshop.md)
+2. Fonts Workshop
 3. CI/CD Workshop
 4. 
+
+## Pre-Workshop Setup
+
+1. [Install VS Code](https://code.visualstudio.com/)
+2. [Install Node & NPM](https://nodejs.org/en/download)
+3. [Install Git](https://git-scm.com/install/) & Create a [Github](https://github.com/) account
