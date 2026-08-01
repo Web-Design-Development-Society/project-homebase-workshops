@@ -6,7 +6,7 @@ This workshop dives into depth about adding fonts in Astro. It also includes add
 
 ## Instructions
 
-Some frameworks provide APIs to improve performance or better DX when adding fonts. Complete the [font workshop](workshops/2-theme-setup/fonts.md) to learn Astro's type-safe font API.
+Some frameworks provide APIs to improve performance or better DX when adding fonts. Complete the [font workshop](./fonts.md) to learn Astro's type-safe font API.
 
 ## Additional Resources
 
@@ -15,6 +15,7 @@ Some frameworks provide APIs to improve performance or better DX when adding fon
 - [Google Fonts](https://fonts.google.com/)
 - [Font Share](https://www.fontshare.com/)
 - [Font Source](https://fontsource.org/)
+- Astro [Fonts API Docs](https://docs.astro.build/en/reference/font-provider-reference/) & [Fonts Guide](https://docs.astro.build/en/guides/fonts/)
 
 **Colors**
 
