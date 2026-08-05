@@ -9,12 +9,12 @@ This repository includes workshops that
 
 ## Workshops
 
-Each workshop is designed only to be 3–8 minutes, so significant additional time is left to work on the site. Multiple workshops can be completed each day.
+Each workshop is designed only to be 3–8 minutes, so significant time is left open for personal development on the site. Multiple workshops can be completed each day.
 
 1. [Project Setup Workshop](workshops/1-project-setup/workshop.md)
 2. [Fonts Workshop](workshops/2-theme-setup/workshop.md)
 3. 
-4. 
+4. [Icons Workshop](workshops/4-social-links/workshop.md)
 5. [CI/CD Workshop](workshops/5-deployment-setup/workshop.md)
 
 ## Pre-Workshop Setup
