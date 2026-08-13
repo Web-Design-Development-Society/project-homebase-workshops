@@ -22,3 +22,11 @@ Each workshop is designed only to be 3–8 minutes, so significant time is left 
 1. [Install VS Code](https://code.visualstudio.com/)
 2. [Install Node & NPM](https://nodejs.org/en/download)
 3. [Install Git](https://git-scm.com/install/) & Create a [Github](https://github.com/) account
+
+## Ideas for further site development
+
+- Add more pages and content
+- Add a custom [404 and 500 page](https://docs.astro.build/en/basics/astro-pages/#custom-404-error-page)
+- Add a favicon in expected formats using [real favicon generator](https://realfavicongenerator.net/)
+- Add a domain and [robots.txt](https://www.robotstxt.org/robotstxt.html) so Google will crawl your site
+
