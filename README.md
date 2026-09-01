@@ -13,8 +13,8 @@ Each workshop is designed only to be 3–8 minutes, so significant time is left 
 
 1. [Project Setup Workshop](workshops/1-project-setup/workshop.md)
 2. [Fonts Workshop](workshops/2-theme-setup/workshop.md)
-3. 
-4. [Icons Workshop](workshops/4-social-links/workshop.md)
+3. [Icons Workshop](workshops/-social-links/workshop.md)
+4.
 5. [CI/CD Workshop](workshops/5-deployment-setup/workshop.md)
 
 ## Pre-Workshop Setup
