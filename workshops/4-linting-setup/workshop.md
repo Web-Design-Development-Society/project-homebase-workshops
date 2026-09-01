@@ -1,6 +1,6 @@
 # Continuous Integration (CI) Workshop
 
-This section will cover the **linting**, **formatting**, and the **type checking** aspect of CI.
+This section will cover the **linting**, **formatting**, and the **type checking** aspect of CI. It may also cause your dev dependencies to explode.
 
 ## Instructions
 
@@ -29,6 +29,11 @@ Some of these CI tool chains are in development and behind in compatability. Con
 Complete the [CI Automation workshop](./ci-automation.md) to establish a standard of how often you will run CI.
 
 ## Additional Resources
+
+**Other Options**
+
+* [Stylelint](https://github.com/stylelint/stylelint) - Linting for css
+* [GPTLint](https://github.com/gptlint/gptlint) - Tell LLMs how they are bad at coding
 
 **More CI**
 
