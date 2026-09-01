@@ -22,7 +22,7 @@ Some of these CI tool chains are in development and behind in compatability. Con
 
 ### Type Checking
 
-* [Typechecking](./type-checking.md) - [TSC](https://www.typescriptlang.org/tsconfig/#noEmit), [Volar](https://volarjs.dev/), and language servers
+* [Typechecking](./type-checking.md) - Learn how to configure type checking for your CI.
 
 ### CI Automation
 
