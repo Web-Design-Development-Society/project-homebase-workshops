@@ -16,6 +16,7 @@ Each workshop is designed only to be 3–8 minutes, so significant time is left 
 3. [Icons Workshop](workshops/3-social-links/workshop.md)
 4. [CI Workshop](workshops/4-linting-setup/workshop.md)
 5. [CD Workshop](workshops/5-deployment-setup/workshop.md)
+6. [Site Inspiration Workshop](workshops/6-site-inspiration/workshop.md)
 
 ## Pre-Workshop Setup
 
