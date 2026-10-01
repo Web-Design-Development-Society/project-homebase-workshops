@@ -15,6 +15,8 @@ Astro projects typically organize parts of the website into folders. But it is c
 * `pages/api/` to define http api endpoints
 * `content/` for resources of Astro collections and `content.config.mts` e.g. blog posts
 
+To get syntax highlighting, install the [Astro VS Code Extension](https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode)
+
 There is also a `public/` folder you can add static content.
 
 Add a image of you to public, a short bio, and hello to get started with your site.
